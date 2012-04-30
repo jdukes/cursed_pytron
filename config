@@ -1,0 +1,17 @@
+[player2]
+name = Terra
+key_up = UP
+key_down = DOWN
+key_left = LEFT
+key_right = RIGHT
+color =  magenta
+direction = left
+
+[player1]
+name = Josh
+key_up = w
+key_down = s
+key_left = a
+key_right = d
+color =  red
+direction = right
